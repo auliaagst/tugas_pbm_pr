@@ -1,6 +1,8 @@
 # bismillah
 
-A new Flutter project.
+Nama : Aulia Augusta
+NIM  : 212410102056
+Kelas: PBM A
 
 ## Getting Started
 
